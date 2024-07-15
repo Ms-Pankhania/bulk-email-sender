@@ -18,7 +18,7 @@ A Python script to send bulk emails using a CSV file. The script uses the `smtpl
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/bulk-email-sender.git
+    git clone https://github.com/Ms-Pankhania/bulk-email-sender.git
     cd bulk-email-sender
     ```
 
