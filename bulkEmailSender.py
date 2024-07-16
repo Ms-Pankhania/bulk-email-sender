@@ -44,8 +44,8 @@ if __name__ == '__main__':
     console.print("[bold cyan]      BULK EMAIL SENDER       [/bold cyan]")
     console.print("[bold cyan]###############################[/bold cyan]")
 
-    console.print("\nCreated by: [blue]Your Name[/blue]")
-    console.print("GitHub: [blue]https://github.com/yourusername[/blue]\n")
+    console.print("\nCreated by: [blue]Mariyam Pankhania[/blue]")
+    console.print("GitHub: [blue]https://github.com/Ms-Pankhania[/blue]\n")
 
     # Prompt the user to enter their email credentials
     email_address = Prompt.ask("Enter your email address")
