@@ -54,10 +54,12 @@ A Python script to send bulk emails using a CSV file. The script uses the `smtpl
     - The body of the email (This will be the same for all recipients)
     - The delay between sending each email (in seconds)
 
-## Using a Passkey
+## Using an App Specific Password
 
-- For enhanced security, you can use a passkey instead of your regular email password. Passkeys provide a secure, device-based authentication method. Watch this 
-  youtube video (https://youtu.be/6lqrX2C-SQc?si=kNKQ1bN8efHOzVQj) to get clear idea about how to create and use passkey. 
+- For enhanced security, you can use an App Specific Password instead of your regular email password. App Specific 
+  Passwords provide a secure, device-based authentication method. Watch this 
+  youtube video (https://youtu.be/6lqrX2C-SQc?si=kNKQ1bN8efHOzVQj) to get clear idea about how to create and use 
+  App Specific Password. 
 
 ## Notes
 
