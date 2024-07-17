@@ -58,7 +58,7 @@ A Python script to send bulk emails using a CSV file. The script uses the `smtpl
 
 - For enhanced security, you can use an App Specific Password instead of your regular email password. App Specific 
   Passwords provide a secure, device-based authentication method. Watch this 
-  youtube video (https://youtu.be/6lqrX2C-SQc?si=kNKQ1bN8efHOzVQj) to get clear idea about how to create and use 
+  youtube video (https://youtu.be/74QQfPrk4vE?si=ocgem2z35v1q_C_E) to get clear idea about how to create and use 
   App Specific Password. 
 
 ## Notes
